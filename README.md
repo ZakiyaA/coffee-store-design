@@ -1,6 +1,8 @@
 
 ## Coffee Home Project
 
+It's a small project to apply some css techniques such as position, z-index along with some Bootstrap properties.
+  
 Languages and frameworks : Bootstrap/ html/ css 
 
 
