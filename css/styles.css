@@ -1,0 +1,250 @@
+@import url('http://fonts.cdnfonts.com/css/metropolis-2');
+
+body {
+    font-family: 'Metropolis', sans-serif;
+    margin: 0;
+    background-image: url('../img/bg.jpg');
+}
+
+header, nav, section {
+    margin-top: 60px;
+    margin-bottom:  60px;
+    
+}
+
+p {
+    line-height: 1.75;
+}
+
+header p:first-of-type  {
+    color: #E6A756;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+header p:last-of-type  {
+    color: #EFDCC0;
+    text-transform:uppercase;
+    font-size: 80px;
+    font-weight: lighter;
+}
+
+nav {
+    background-color: #301810;
+}
+
+ .nav-link{
+    color: #C1BBB9;
+    font-weight: bold;
+}
+
+.navbar-nav > li {
+    padding-left:30px;
+    padding-right:30px;
+  }
+
+.navbar-brand {
+    color: #E6A756;
+    font-weight: bold;
+}
+
+.navbar-brand:hover {
+    color: #E6A756;
+}
+
+ .nav-link:hover {
+    color: #C1BBB9;
+    opacity: 70%;
+}
+ .navbar-toggler-icon, .navbar-toggler, .navbar {
+    border-color: #C1BBB9 !important;
+}
+
+
+.intro {
+    position: relative;
+    height: auto;
+}
+
+.intro  .right-text {
+    background-color: #F5E1C5;
+    height: 300px;
+    width: 550px;
+    border-radius: 2px;
+    text-align: center;
+    padding: 10px;
+    position: absolute;
+    left: 1%;
+    top: 20%;
+    z-index: 2;
+}
+
+section .upper-text {
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+section .lower-text {
+    text-transform: uppercase;
+    font-weight:lighter;
+    font-size: 40px;
+    margin: 0;
+}
+
+section .note {
+    padding: 0px 30px;
+    font-weight: 500;
+    font-size: 18px; 
+}
+
+.right-text button {
+    background-color: #E6A756;
+    font-weight: 600;
+    font-size: small;
+    height: 60px;
+    width: 150px;
+    position: absolute;
+    left: 25%;
+    top: 90%;
+    z-index: 1;
+}
+
+
+.intro img  {
+    left: 25%;
+    height: 100%;
+    width: 100%;
+    padding-right: 40px;
+    align-self:flex-start;
+}
+
+.promise {
+    background-color: #D3984E;
+    width: 100%;
+    padding: 80px 0;
+}
+
+.promise .promise-text {
+    background-color: #F5E1C5;
+    height: 100%;
+    width: 100%;
+    border-radius: 5px;
+    padding: 40px 0;
+    outline: 5px solid #E6AB64;
+    outline-offset: 5px;
+}
+
+
+footer {
+    background-color: #301810;
+    height: 100px;
+    width: 100%;
+    color: #F5E1C5;
+    margin-top: 60px;
+}
+
+.about {
+    position: relative;
+    height: 800px;
+}
+.about .about-text {
+    background-color: #F5E1C5;
+    height: 300px;
+    width: 60%;
+    border-radius: 2px;
+    text-align: center;
+    padding: 10px;
+    position: absolute;
+    left: 20%;
+    top: 60%;
+}
+
+
+.about  img {
+    width: 100%;
+    height: 500px;
+    border-radius: 2px;
+}
+
+.products {
+    position: relative;
+    height: auto;
+    padding: 60px 0;
+}
+
+.header {
+    background-color: #F5E1C5;
+    width: 40%;
+    border-radius: 2px;
+    text-align: center;
+    padding: 30px;
+    position: absolute;
+    right: 5%;
+    top: 0;
+}
+
+
+.tail {
+    background-color: #F5E1C5;
+    width: 40%;
+    border-radius: 2px;
+    text-align: center;
+    padding: 30px;
+    font-weight: 500;
+    font-size: 15px; 
+    position: absolute;
+    left: 5%;
+    bottom: 0;
+}
+
+.product2-header {
+    left: 5%;
+    top: 0;
+   
+} 
+
+.product2-tail {
+    right: 5%;
+    bottom: 0;
+}
+
+.products img {
+    display: block;
+    height: auto;
+    border-radius: 2px;
+    width: 800px;
+    margin: 30px 0;
+}
+
+table .table-custom {
+    padding: 20px;
+}
+
+.table-custom td, .table-custom th{
+    border-bottom:1px #D3984E solid;
+   
+}
+
+.table-custom tr:nth-child(3){
+    color: #D3984E;
+    font-weight: bold;
+}
+
+.table-custom tr:first-of-type  {
+    border-color: transparent;
+}
+
+
+@media only screen and (max-width: 768px) {
+   
+    [class*="notet"] {
+        width: 100%;
+      }
+  }
+
+  .promise .menue {
+      width: 80%;
+      align-self: center;
+  }
