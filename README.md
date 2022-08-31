@@ -17,4 +17,4 @@
 
 ## StoreHoursPage
 
-!["StoreHoursPage"](https://[github.com/ZakiyaA/coffee-store-design/blob/master/img/homePage.png](https://github.com/ZakiyaA/coffee-store-design/blob/master/img/storePage.png)?raw=true)
+!["StoreHoursPage"](https://[https://github.com/ZakiyaA/coffee-store-design/blob/master/img/storePage.png)?raw=true)
