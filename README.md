@@ -5,6 +5,6 @@
 
 ## HomePage
 
-!["HomePage"](https://github.com/ZakiyaA/Application1/blob/main/src/images/homePge.png?raw=true)
+!["HomePage"](https://github.com/ZakiyaA/coffee-store-design/blob/master/img/homePage.png?raw=true)
 
 
