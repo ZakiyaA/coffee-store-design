@@ -1,4 +1,5 @@
 @import url('http://fonts.cdnfonts.com/css/metropolis-2');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 
 body {
     font-family: 'Metropolis', sans-serif;
@@ -16,10 +17,16 @@ p {
     line-height: 1.75;
 }
 
+/* .shop-name {
+    font-family: 'Lobster', cursive;
+    font-size:larger;
+} */
+
 header p:first-of-type  {
     color: #E6A756;
     text-transform: uppercase;
-    font-size: 30px;
+    font-family: 'Lobster', cursive;
+    font-size: 60px;
     font-weight: bold;
 }
 
