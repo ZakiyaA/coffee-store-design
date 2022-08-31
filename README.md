@@ -11,7 +11,7 @@ Languages and frameworks : Bootstrap/ html/ css
 
 ## AboutUsPage
 
-!["AboutUsPage"](https://github.com/ZakiyaA/coffee-store-design/blob/master/img/aboutUsPage.png?raw=true)
+!["AboutUsPage"](https://github.com/ZakiyaA/coffee-store-design/blob/master/img/AboutUsPage.png?raw=true)
 
 ## ProductsPage
 
