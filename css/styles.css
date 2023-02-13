@@ -17,10 +17,6 @@ p {
     line-height: 1.75;
 }
 
-/* .shop-name {
-    font-family: 'Lobster', cursive;
-    font-size:larger;
-} */
 
 header p:first-of-type  {
     color: #E6A756;
@@ -84,7 +80,7 @@ nav {
     text-align: center;
     padding: 10px;
     position: absolute;
-    left: 1%;
+    left: 2%;
     top: 20%;
     z-index: 2;
 }
@@ -115,7 +111,7 @@ section .note {
     height: 60px;
     width: 150px;
     position: absolute;
-    left: 25%;
+    left: 40%;
     top: 90%;
     z-index: 1;
 }
@@ -124,9 +120,7 @@ section .note {
 .intro img  {
     left: 25%;
     height: 100%;
-    width: 100%;
-    padding-right: 40px;
-    align-self:flex-start;
+    width: 80%;
 }
 
 .promise {
